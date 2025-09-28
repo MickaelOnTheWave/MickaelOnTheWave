@@ -15,7 +15,7 @@ I'm a passionate developer with 19 years of international experience building co
 | [TheEye](https://github.com/MickaelOnTheWave/TheEye) | Smart screensaver with a 3D-rendered eye that follows the user in real-time using AI and webcam. | C++, Qt, OpenGL, AI | ~800 |
 | [3D Visualizer](https://github.com/MickaelOnTheWave/3D-Visualizer) | Qt-based application for testing and demonstrating my custom C++/OpenGL render engine. | C++, Qt, OpenGL | ~100 |
 | [RenderEngine](https://github.com/MickaelOnTheWave/RenderLib) | Custom 3D rendering engine built from the ground up with modern OpenGL and GLSL shaders. | C++, OpenGL, GLSL | ~1,100 |
-| [LiveCamTester](https://github.com/MickaelOnTheWave/LiveCamTester) | Qt tool for webcam control and display with AI-powered face detection capabilities. | C++, Qt, AI | ~8,000 |
+| [LiveCamTester](https://github.com/MickaelOnTheWave/LiveCamTester) | Qt tool for webcam control and display with AI-powered face detection capabilities. | C++, Qt, AI | ~300 |
 
 ### 💼 Complex Systems & Applications
 
