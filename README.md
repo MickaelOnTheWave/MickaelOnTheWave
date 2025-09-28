@@ -41,7 +41,7 @@ I'm a passionate developer with 19 years of international experience building co
 <summary>📊 About these metrics</summary>
 
 - **Code Size (LOC)** = Lines of Code (project-specific only. Dependencies are excluded.)
-- **Shared internal libraries** (render engine, networking, parsing and other utilities) add approximately ~7,700 lines of reusable C++ code
+- **Shared internal libraries** (render engine, networking, parsing and other utilities) add approximately ~8,800 lines of reusable C++ code
 - External dependencies (Qt, Boost, etc.) are excluded from all counts
 </details>
 
