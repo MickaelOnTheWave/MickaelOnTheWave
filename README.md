@@ -12,9 +12,9 @@ I'm a passionate developer with 19 years of international experience building co
 
 | Project | Description | Tech | Code Size |
 |---------|-------------|------|------|
-| [TheEye](https://github.com/MickaelOnTheWave/TheEye) | Smart screensaver with a 3D-rendered eye that follows the user in real-time using AI and webcam. | C++, Qt, OpenGL, AI | ~X,XXX |
-| [3D Visualizer](https://github.com/MickaelOnTheWave/3D-Visualizer) | Qt-based application for testing and demonstrating my custom C++/OpenGL render engine. | C++, Qt, OpenGL | ~X,XXX |
-| [RenderEngine](https://github.com/MickaelOnTheWave/RenderLib) | Custom 3D rendering engine built from the ground up with modern OpenGL and GLSL shaders. | C++, OpenGL, GLSL | ~X,XXX |
+| [TheEye](https://github.com/MickaelOnTheWave/TheEye) | Smart screensaver with a 3D-rendered eye that follows the user in real-time using AI and webcam. | C++, Qt, OpenGL, AI | ~800 |
+| [3D Visualizer](https://github.com/MickaelOnTheWave/3D-Visualizer) | Qt-based application for testing and demonstrating my custom C++/OpenGL render engine. | C++, Qt, OpenGL | ~100 |
+| [RenderEngine](https://github.com/MickaelOnTheWave/RenderLib) | Custom 3D rendering engine built from the ground up with modern OpenGL and GLSL shaders. | C++, OpenGL, GLSL | ~1,100 |
 | [LiveCamTester](https://github.com/MickaelOnTheWave/LiveCamTester) | Qt tool for webcam control and display with AI-powered face detection capabilities. | C++, Qt, AI | ~8,000 |
 
 ### 💼 Complex Systems & Applications
@@ -23,9 +23,9 @@ I'm a passionate developer with 19 years of international experience building co
 
 | Project | Description | Tech | Code Size |
 |---------|-------------|------|------|
-| [MEGASync](https://github.com/meganz/MEGASync) | Cross-platform desktop client for MEGA cloud storage with file synchronization. **Professional contribution (2021-2025)**. | C++, Qt, QML | (Team project) |
-| [GuimicK](https://github.com/MickaelOnTheWave/GuimicK) | Large-scale cross-platform task scheduler showcasing long-term maintenance of complex systems. | C++, Qt, WinAPI | ~80,000 |
-| [InvoiceManager](https://github.com/MickaelOnTheWave/InvoiceManager) | Full-stack business application with Qt GUI, database, version management, and statistical charts. | C++, Qt, SQLite | ~23,000 |
+| [MEGASync](https://github.com/meganz/MEGASync) | Cross-platform desktop client for MEGA cloud storage with file synchronization. **Professional contribution (2021-2025)**. | C++, Qt, QML | ~120,000 |
+| [GuimicK](https://github.com/MickaelOnTheWave/GuimicK) | Large-scale cross-platform task scheduler showcasing long-term maintenance of complex systems. | C++, Qt, WinAPI | ~25,000 |
+| [InvoiceManager](https://github.com/MickaelOnTheWave/InvoiceManager) | Full-stack business application with Qt GUI, database, version management, and statistical charts. | C++, Qt, SQLite | ~10,000 |
 
 ### ⚙️ Technical Experiments & Tools
 
@@ -35,13 +35,13 @@ I'm a passionate developer with 19 years of international experience building co
 |---------|-------------|------|------|
 | [PrimesFinder](https://github.com/MickaelOnTheWave/PrimesFinder) | Multithreading exploration tool for finding prime numbers and benchmarking performance. | C++ | ~4,000 |
 | [NeuralNetworkUI](https://github.com/MickaelOnTheWave/NeuralNetworkUI) | Lightweight GUI for training and inference with the FANN (Fast Artificial Neural Network) library. | C++, Qt | ~600 |
-| [Photo Analyzer](https://github.com/MickaelOnTheWave/PhotoAnalyzer) | Qt application for face recognition across photo collections with database categorization. | C++, Qt, AI | ~X,XXX |
+| [Photo Analyzer](https://github.com/MickaelOnTheWave/PhotoAnalyzer) | Qt application for face recognition across photo collections with database categorization. | C++, Qt, AI | ~500 |
 
 <details>
 <summary>📊 About these metrics</summary>
 
 - **Code Size (LOC)** = Lines of Code (project-specific only. Dependencies are excluded.)
-- **Shared internal libraries** (render engine, networking, parsing and other utilities) add approximately ~XX,000 lines of reusable C++ code
+- **Shared internal libraries** (render engine, networking, parsing and other utilities) add approximately ~7,700 lines of reusable C++ code
 - External dependencies (Qt, Boost, etc.) are excluded from all counts
 </details>
 
